@@ -1,0 +1,21 @@
+# Virtual environment
+openintel_env/
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Spark output
+output/
+_SUCCESS
+*.crc
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
